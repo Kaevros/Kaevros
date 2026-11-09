@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="224" viewBox="0 0 896 224" role="img" aria-labelledby="title">
+  <title id="title">Mustafa Günay · Founder &amp; Software Developer</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#1a1514"/>
+      <stop offset="1" stop-color="#32211a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#ff9b55"/>
+      <stop offset="1" stop-color="#ff9b55" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0v24" fill="none" stroke="#d69570" stroke-opacity=".15"/>
+    </pattern>
+    <linearGradient id="grid-fade" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#000"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="fade">
+      <rect x="456" width="440" height="224" fill="url(#grid-fade)"/>
+    </mask>
+    <clipPath id="edge">
+      <rect width="896" height="224" rx="17"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#edge)">
+    <rect width="896" height="224" fill="url(#background)"/>
+    <rect x="456" width="440" height="224" fill="url(#grid)" mask="url(#fade)"/>
+    <path d="M48 49h115" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+    <text x="46" y="120" fill="#fff8f3" font-family="Arial, Helvetica, sans-serif" font-size="63" font-weight="700" letter-spacing="-2">Mustafa Günay</text>
+    <text x="49" y="162" fill="#e6c9b6" font-family="Arial, Helvetica, sans-serif" font-size="23">Founder &amp; Software Developer</text>
+    <g fill="none" stroke="#ff9b55" stroke-width="2">
+      <path d="M674 74h-29v-19h-24m157 95h33v19h25" opacity=".45"/>
+      <rect x="678" y="50" width="116" height="83" rx="12" fill="#2a1f1b" stroke-opacity=".38"/>
+      <rect x="655" y="75" width="116" height="83" rx="12" fill="#35231c"/>
+      <path d="m696 105-13 12 13 12m34-24 13 12-13 12m-11-27-12 30" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="617" cy="55" r="4" fill="#ff9b55" stroke="none"/>
+      <circle cx="840" cy="169" r="4" fill="#ff9b55" stroke="none"/>
+    </g>
+    <path d="M48 194h800" stroke="#d69570" stroke-opacity=".2"/>
+  </g>
+  <rect x=".5" y=".5" width="895" height="223" rx="16.5" fill="none" stroke="#d69570" stroke-opacity=".26"/>
+</svg>
