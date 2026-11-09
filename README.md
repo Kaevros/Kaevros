@@ -1,8 +1,8 @@
-![Mustafa Günay, founder and software developer](assets/profile-header.svg)
+![Mustafa Günay, founder and software developer](assets/profile-header-orange.svg)
 
 I build web and desktop applications and study Management Information Systems.
 
-[![Bio](assets/bio.svg)](https://bio.mustafagunay.com/p/mustafa)&nbsp; [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/mrmustafagunay/) [![Medium](assets/medium.svg)](https://medium.com/@mustafagunay)&nbsp; [![Instagram](assets/instagram.svg)](https://www.instagram.com/mr.mustafagunay/)
+[![Bio](assets/bio.svg)](https://bio.mustafagunay.com/p/mustafa)&nbsp; [![LinkedIn](assets/linkedin-orange.svg)](https://www.linkedin.com/in/mrmustafagunay/) [![Medium](assets/medium.svg)](https://medium.com/@mustafagunay)&nbsp; [![Instagram](assets/instagram-orange.svg)](https://www.instagram.com/mr.mustafagunay/)
 
 ## Technical skills
 
