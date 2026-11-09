@@ -1,14 +1,15 @@
 ![Mustafa Günay, founder and software developer](assets/profile-header.svg)
 
-I’m the founder and developer of **GNY Menu**, a restaurant operations platform that connects QR menus and table orders with kitchen and cashier workflows. I study **Management Information Systems** at the **European University of Lefke**, where I serve as **IT Club President**.
+I build web and desktop applications and study Management Information Systems.
 
-[![Bio](assets/bio.svg)](https://bio.mustafagunay.com/)&nbsp; [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/mrmustafagunay/) [![Medium](assets/medium.svg)](https://medium.com/@mustafagunay)&nbsp; [![Instagram](assets/instagram.svg)](https://www.instagram.com/mr.mustafagunay/)
+[![Bio](assets/bio.svg)](https://bio.mustafagunay.com/p/mustafa)&nbsp; [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/mrmustafagunay/) [![Medium](assets/medium.svg)](https://medium.com/@mustafagunay)&nbsp; [![Instagram](assets/instagram.svg)](https://www.instagram.com/mr.mustafagunay/)
 
 ## Technical skills
 
 - **Web development** · TypeScript, React, Next.js, Tailwind CSS
-- **Backend & cloud** · Supabase, PostgreSQL, Cloudflare Workers
-- **Desktop development** · Electron, Python
+- **Backend & cloud** · PostgreSQL, Supabase, Cloudflare Workers, D1, R2
+- **Desktop development** · Electron, Python (Tkinter)
+- **Cybersecurity** · Web security fundamentals, authentication, access control with row-level security (RLS)
 
 ## Selected work
 
