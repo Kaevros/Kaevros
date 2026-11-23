@@ -29,9 +29,7 @@ A link-in-bio platform for bringing social accounts and custom links together on
 
 ### [GNY Menu](https://gnymenu.com/?lang=en)
 
-A multilingual QR menu and order management platform for restaurants, cafés, and hotels. Guests order from their tables, and staff track orders across waiter, kitchen, and cashier screens.
-
-**QR table order → Kitchen display → Thermal receipt**
+A platform for restaurants, cafés, and hotels to manage menus, orders, and day-to-day operations from one dashboard. Its modules cover multilingual QR menus, table and takeaway orders, waiter and kitchen screens, checkout and table checks, receipt printing, customer account balances, and multi-location management.
 
 `Next.js` · `TypeScript` · `Supabase` · `Cloudflare Workers & R2`
 

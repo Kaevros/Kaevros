@@ -29,9 +29,7 @@ Sosyal hesaplarını ve özel bağlantılarını tek bir kişisel sayfada toplay
 
 ### [GNY Menü](https://gnymenu.com/)
 
-Restoran, kafe ve oteller için çok dilli QR menü ve sipariş yönetimi platformu. Misafirler masadan sipariş verir. Ekip, siparişi garson, mutfak ve kasa ekranları üzerinden takip eder.
-
-**QR menüden masa siparişi → Mutfak ekranı → Termal fiş**
+Restoran, kafe ve otellerin menülerini, siparişlerini ve günlük operasyonlarını tek panelden yönetmesini sağlayan platform. Çok dilli QR menü, masa ve paket siparişleri, garson ve mutfak ekranları, kasa ve adisyon işlemleri, fiş yazdırma, cari hesap takibi ve çok şubeli yönetim için modüller sunar.
 
 `Next.js` · `TypeScript` · `Supabase` · `Cloudflare Workers ve R2`
 
